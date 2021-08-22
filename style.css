@@ -1,0 +1,41 @@
+body {
+  background-color: aqua;
+  font-family: "Bebas Neue", cursive;
+  color: white;
+}
+.title {
+  font-size: 4rem;
+}
+.box {
+  width: 50%;
+  margin: auto;
+  border-style: solid;
+  border-radius: 30px;
+  padding-top: 10px;
+  text-align: center;
+  background-color: red;
+}
+.wordCount {
+  font-size: 3rem;
+}
+.text {
+  border-radius: 20px;
+  margin-bottom: 20px;
+  width: 40%;
+  height: 30px;
+  font-size: 30px;
+}
+.button {
+  background-color: yellow;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
